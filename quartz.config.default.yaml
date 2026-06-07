@@ -11,7 +11,10 @@ configuration:
   ignorePatterns:
     - private
     - templates
+    - Templates
     - .obsidian
+    - 00-Inbox
+    - _Vault-Index
   theme:
     fontOrigin: googleFonts
     cdnCaching: true
